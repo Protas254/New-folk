@@ -4,7 +4,7 @@ from ordered import *
 from time import *
 
 menu()
-print("\t\t\t\t\t\t\t\tTake your time to view our menu")
+print("\t\t\t\t\t\t\t\tTake your time to view our menu").
 make = int(input("\t\t\t\t\t\tTo oder input 1 to exit 0: "))
 if make == 1:
     sleep(3)
